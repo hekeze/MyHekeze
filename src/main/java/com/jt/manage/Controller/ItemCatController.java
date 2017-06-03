@@ -18,5 +18,6 @@ private ItemCatService itemCatService;
 @ResponseBody
 public List<ItemCat> queryAll(){
 	return itemCatService.queryAll();
+	//someth
 }
 }
